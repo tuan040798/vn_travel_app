@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430175637415",
+    "firebase_url": "https://chatapp-725c7.firebaseio.com",
+    "project_id": "chatapp-725c7",
+    "storage_bucket": "chatapp-725c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430175637415:android:a072d7f1a032974732b082",
+        "android_client_info": {
+          "package_name": "travel.vn.com.vn_travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430175637415-p102qblamng5h3bub8htfbe7pe4quukp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travel.vn.com.vn_travel_app",
+            "certificate_hash": "1c6a88f6a4e7dcae61bd086c35eaeaf19f6fe4b3"
+          }
+        },
+        {
+          "client_id": "430175637415-7rgkegbgnui921r6cmda7ltq1o42tiej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFvxHGqHebkeNm8vn-EUiCm1kvtPDY7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430175637415-7rgkegbgnui921r6cmda7ltq1o42tiej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
